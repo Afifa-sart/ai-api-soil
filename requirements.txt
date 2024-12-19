@@ -1,0 +1,4 @@
+scikit-learn==3.5.0
+pandas==1.17.0
+flask
+gunicorn
